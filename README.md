@@ -1,16 +1,7 @@
 # Wrap
+giúp bao bọc những nội dung bên trong không bị tràn ra ngoài màn hình.
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/55448192/85245852-17196380-b473-11ea-9275-64f30dee4da1.png)
+![image](https://user-images.githubusercontent.com/55448192/85245861-213b6200-b473-11ea-8c30-06e6bb148672.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/55448192/85245883-2f897e00-b473-11ea-8913-c3a4392ac338.png)
